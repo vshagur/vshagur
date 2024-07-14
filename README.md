@@ -5,9 +5,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👀 I’m interested in web development and test automation in the Python programming language and everything related to it
-- 🌱 I’m currently working for online courses support on Coursera and Stepik platforms. I study Graphql and participate in beta testing of various IT courses.
-- 💞️ I want to work as a web developer and create useful programs
+- 👀 I am interested in web development and web scraping in the Python programming language and everything connected with it.
+- 🌱 I currently work as a backend developer at [Sibdev](https://sibdev.pro/).
+- 🤝 I'm not currently looking for a job, but I'm always open to contacts and happy to meet new people.
 - [Resume](https://github.com/vshagur/vshagur/blob/main/resume_python_2021.pdf)
 
 
