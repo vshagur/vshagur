@@ -7,7 +7,7 @@
 
 - 👀 Currently looking for a job as a backend developer (Python). I have 4 years of experience as a backend developer ([Sibdev](https://sibdev.pro/) company) and 2 years of test automation
 - 🤝 Always open for contact and will be glad to your suggestions.
-- [Resume](https://drive.google.com/file/d/1NWmwZub24g87BsHntTdkd_lQ-IUg36dm/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1dcI2A1HWDXPO2p9ybvj822unVOeI4YQ0/view?usp=sharing)
 - [CV](https://drive.google.com/file/d/1bvO647AKbjAQMAzNpqZmkxM1fGR4vCVN/view?usp=sharing) 
 
 
