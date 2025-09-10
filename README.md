@@ -5,9 +5,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👀 I am interested in web development and web scraping in the Python programming language and everything connected with it.
-- 🌱 I currently work as a backend developer at [Sibdev](https://sibdev.pro/).
-- 🤝 I'm not currently looking for a job, but I'm always open to contacts and happy to meet new people.
+- 👀 Currently looking for a job as a backend developer (Python). I have 4 years of experience as a backend developer ([Sibdev](https://sibdev.pro/) company) and 2 years of test automation
+- 🤝 Always open for contact and will be glad to your suggestions.
 - [Resume](https://drive.google.com/file/d/1NWmwZub24g87BsHntTdkd_lQ-IUg36dm/view?usp=sharing)
 - [CV](https://drive.google.com/file/d/1bvO647AKbjAQMAzNpqZmkxM1fGR4vCVN/view?usp=sharing) 
 
